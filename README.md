@@ -3,9 +3,15 @@
 ## Коллаб
 [Ссылка на коллаб](hw3_Dnd41.ipynb)
 ## Использованные файлы
-### Метки
+### Гистоновые метки
+```console
+!wget http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/<НАЗВАНИЕ ФАЙЛА>.bam -O <МЕТКА>.bam
+```
 ![image](https://user-images.githubusercontent.com/77488037/230167880-61d2d08a-a06b-4a67-ab20-48a6b36d1d7f.png)
 ### Контроль
+```console
+!wget http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/<НАЗВАНИЕ ФАЙЛА>.bam -O Control.bam
+```
 ![image](https://user-images.githubusercontent.com/77488037/230176383-e4d0fec0-8e7e-49eb-9bd4-fb65616b3622.png)
 ## ChromHMM
 ### Emission
